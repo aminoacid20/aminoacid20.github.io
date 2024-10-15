@@ -1,8 +1,8 @@
-# GuangLun2000.github.io
+# albondna.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+albondna 高中发电写的OC 沿用至今
+SOME 不知身份的某人
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my personal website.
 
 ## Update and News
 
