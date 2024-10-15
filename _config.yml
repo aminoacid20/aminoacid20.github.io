@@ -36,17 +36,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 自我介绍
     url: /
-  - title: Publications
+  - title: 以后想想写什么
     url: /publications/
-  - title: Awards
+  - title: 大学资料整理
     url: /awards/
-  - title: Hobbies
+  - title: 兴趣
     url: /hobbies/
-  - title: Blogs
+  - title: 未来计划
     url: /blogs/
-  - title: 团队
+  - title: 海洋科学基础
     url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
