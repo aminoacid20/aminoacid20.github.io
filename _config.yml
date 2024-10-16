@@ -2,7 +2,7 @@ title: SOME
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: albondna.github.io
+url: https://albondna.github.io/
 
 # Owner/author information
 owner:
@@ -38,16 +38,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: 自我介绍
     url: /
-  - title: 以后想想写什么
-    url: /publications/
-  - title: 大学资料整理
-    url: /awards/
+  - title: 个人经历
+    url: /gerenjingli/
+  - title: 奖项
+    url: /jiangxiang/
   - title: 兴趣
-    url: /hobbies/
+    url: /xingqu/
   - title: 未来计划
     url: /awards/
   - title: 海洋科学基础
-    url: /teams/
+    url: /haikejichu/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
