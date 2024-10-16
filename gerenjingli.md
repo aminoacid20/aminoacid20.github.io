@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /gerenjingli/index.html
+title: 个人经历
 ---
 
 
