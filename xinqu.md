@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /xingqu/index.html
+title: 兴趣
 ---
 
 # Hobbies
