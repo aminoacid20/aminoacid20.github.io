@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /jiangxiang/index.html
+title: 奖项
 ---
 
 > (†: equal contribution, ~: corresponding author)
